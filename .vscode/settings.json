@@ -1,0 +1,4 @@
+{
+  "prettier.singleQuote": true,
+  "eslint.problems.shortenToSingleLine": true
+}
